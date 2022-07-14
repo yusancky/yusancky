@@ -1,10 +1,12 @@
-### Hi there 👋
+# 👋 Hi
+I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student in Guangzhou, Guangdong, China. 
+
+# 💼 My Repositories
+- The repository [**yusancky/auto_type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you codes can write by characters automatically. Now, it has codes in C++ and Python. 
+- The Python code in [**yusancky/COVID-19-Reporter**](https://github.com/yusancky/COVID-19-Reporter) can make a figure to show you the number of the COVID-19 cases in different conutries but it's still in progress. 
 
 <!--
-**yusancky/yusancky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
