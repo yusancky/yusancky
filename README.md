@@ -6,10 +6,13 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 
 - The repository [**yusancky/auto_type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you codes can write by characters automatically. Now, it has codes in C++ and Python. 
 
-# 💬 Contact details
+# 💬 Contact Details
 
 - E-mail: [`umbrellacky@qq.com`](mailto:umbrellacky@qq.com)
 - WeChat ID: `yusancky`
+
+# 🎥 My Video on Bilibili
+[![](https://bb-embed.herokuapp.com/embed?v=BV1H34y1n7r6)](https://player.bilibili.com/player.html?aid=813676416&bvid=BV1H34y1n7r6&cid=780466878&page=1)
 
 # 💰 Ways to Sponsor
 
