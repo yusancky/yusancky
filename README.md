@@ -12,7 +12,7 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 
 # 💼 Repositories
 
-- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you codes which can write by characters automatically. Now, it has codes in C++ and Python. 
+- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you codes which can write by characters automatically. 
 
 # 💬 Contact Details
 
@@ -32,14 +32,14 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 1. Open "Home" and choose a wallet
 2. Slide the wallet up
 3. Select "Transfer" and then choose "Wallet ID"
-4. Enter `0061900014364944` and then pay as before
+4. Enter `0061900014364944`
 
 ## WeChat Pay
 
 1. Open WeChat APP and then open "Me"
 2. Select "Services" and then press the "Money"
 3. Press "Transfer to Bank Card/Mobile No." and then select "Transfer to Mobile Number"
-4. Enter `17727603415` and then pay as before
+4. Enter `17727603415`
 
 
 <!--
