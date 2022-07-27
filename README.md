@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student from Guangzhou, Guangdong, China. 
+I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student from Guangzhou _(also known as Canton)_, Guangdong, China. 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
