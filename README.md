@@ -12,7 +12,7 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 
 # 💼 Repositories
 
-- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you codes which can write by characters automatically. 
+- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you with codes which can write by characters automatically. 
 
 # 💬 Contact Details
 
