@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student from Guangzhou _(also known as Canton)_, Guangdong, China. 
+I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou _(also known as Canton)_, Guangdong, China. 
 
 ![yusancky](/yusancky.svg)
 
@@ -14,7 +14,7 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 
 # 💼 Repositories
 
-- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and [**@aoeer39**](https://github.com/aoeer39) provides you with codes which can write by characters automatically. 
+- The repository [**yusancky/auto-type**](https://github.com/yusancky/auto-type) by me and **[@aoeer39 ](https://github.com/aoeer39)** provides you with codes which can write by characters automatically. 
 
 # 💬 Contact Details
 
@@ -22,12 +22,18 @@ I'm [**@yusancky**](https://github.com/yusancky) , a junior high school student 
 - WeChat ID: `yusancky`
 
 # 🎥 My Bilibili Video
+
 [![](https://bb-embed.herokuapp.com/embed?v=BV1H34y1n7r6)](https://player.bilibili.com/player.html?aid=813676416&bvid=BV1H34y1n7r6&cid=780466878&page=1)
+
+# ☺ My Friends
+- **[@aoeer39 ](https://github.com/aoeer39)**
+- **[@BCFeather ](https://github.com/BCFeather)**
+- **[@agkjVIP ](https://github.com/agkjVIP)**
 
 # 💰 Ways to Sponsor
 
 > **Note**
-> You can leave your information when you pay. 
+> You can leave your information when you sponsor. 
 
 ## e-CNY APP
 
