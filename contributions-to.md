@@ -1,0 +1,10 @@
+- OI-wiki/OI-wiki
+- slidevjs/docs-cn
+- BCFeather/BCFeather
+- simple-icons/simple-icons
+- manim-kindergarten/manim
+- alexandresanlim/Badges4-README.md-Profile
+- itorr/china-ex
+- Wallbreaker5th/intercity-metro
+- OIerDb-ng/OIerDb-data-generator
+- mli/autocut
