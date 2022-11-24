@@ -4,6 +4,7 @@
 - simple-icons/simple-icons
 - manim-kindergarten/manim
 - alexandresanlim/Badges4-README.md-Profile
+- ctf-wiki/ctf-wiki
 - itorr/china-ex
 - Wallbreaker5th/intercity-metro
 - OIerDb-ng/OIerDb-data-generator
