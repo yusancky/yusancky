@@ -5,6 +5,7 @@
 - manim-kindergarten/manim
 - alexandresanlim/Badges4-README.md-Profile
 - ctf-wiki/ctf-wiki
+- agkjVIP/agkjVIP.github.io
 - itorr/china-ex
 - Wallbreaker5th/intercity-metro
 - OIerDb-ng/OIerDb-data-generator
