@@ -1,4 +1,5 @@
 - OI-wiki/OI-wiki
+- pypi/warehouse
 - slidevjs/docs-cn
 - BCFeather/BCFeather
 - simple-icons/simple-icons
