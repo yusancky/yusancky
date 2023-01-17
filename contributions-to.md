@@ -11,3 +11,4 @@
 - Wallbreaker5th/intercity-metro
 - OIerDb-ng/OIerDb-data-generator
 - mli/autocut
+- Wilfred/difftastic
