@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yusancky&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&include_all_commits=true&hide_border=true" width="300" align="right" />
 
-> _As heaven maintains vigor through movements, a gentle man should constantly strive for self-perfection. (The Book of Changes)_
+> _Heart to Heart, @Future_
 
-I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou _(also known as Canton)_, Guangdong, PRC. You can contact with me by sending e-mail to [`umbrellacky@qq.com`](mailto:umbrellacky@qq.com). 
+I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou, Guangdong, China. You can contact with me by sending e-mail to [`umbrellacky@qq.com`](mailto:umbrellacky@qq.com). 
 
 <p align="center"><img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" /> <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></p>
 
