@@ -2,7 +2,7 @@
 
 > _Heart to Heart, @Future_
 
-I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou, Guangdong, China. You can contact with me by sending e-mail to [`umbrellacky@qq.com`](mailto:umbrellacky@qq.com). 
+I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou, Guangdong, China. 
 
 <p align="center"><img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" /> <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></p>
 
