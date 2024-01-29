@@ -1,11 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=yusancky&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&include_all_commits=true&hide_border=true" width="300" align="right" />
-
-> _Heart to Heart, @Future_
-
-I'm **[@yusancky ](https://github.com/yusancky)**, a junior high school student from Guangzhou, Guangdong, China. 
-
-<p align="center"><img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" /> <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></p>
-
-<p align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></p>
+I'm **[@yusancky ](https://github.com/yusancky)**, a senior high school student from Guangzhou, Guangdong, China. 
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusancky&theme=nord_bright" /></p>
